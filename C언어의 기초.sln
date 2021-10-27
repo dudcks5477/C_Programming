@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "반복문", "반복문\반�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수", "함수\함수.vcxproj", "{E7D528F3-F508-42CD-A738-878C55D9C8B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열", "배열\배열.vcxproj", "{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{E7D528F3-F508-42CD-A738-878C55D9C8B6}.Release|x64.Build.0 = Release|x64
 		{E7D528F3-F508-42CD-A738-878C55D9C8B6}.Release|x86.ActiveCfg = Release|Win32
 		{E7D528F3-F508-42CD-A738-878C55D9C8B6}.Release|x86.Build.0 = Release|Win32
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Debug|x64.ActiveCfg = Debug|x64
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Debug|x64.Build.0 = Debug|x64
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Debug|x86.Build.0 = Debug|Win32
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x64.ActiveCfg = Release|x64
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x64.Build.0 = Release|x64
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x86.ActiveCfg = Release|Win32
+		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

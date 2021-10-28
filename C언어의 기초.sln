@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수", "함수\함수.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열", "배열\배열.vcxproj", "{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터", "포인터\포인터.vcxproj", "{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x64.Build.0 = Release|x64
 		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x86.ActiveCfg = Release|Win32
 		{0D20BBAF-8821-4EA0-B821-E8A0902DF7E2}.Release|x86.Build.0 = Release|Win32
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Debug|x64.ActiveCfg = Debug|x64
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Debug|x64.Build.0 = Debug|x64
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Debug|x86.Build.0 = Debug|Win32
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Release|x64.ActiveCfg = Release|x64
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Release|x64.Build.0 = Release|x64
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Release|x86.ActiveCfg = Release|Win32
+		{68D2A0FA-63E3-4863-B45B-DDD0B63811CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

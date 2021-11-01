@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터", "포인터\포�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자", "문자\문자.vcxproj", "{D08BE68C-9CF1-4DFC-87DA-5975002522F4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열", "문자열\문자열.vcxproj", "{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{D08BE68C-9CF1-4DFC-87DA-5975002522F4}.Release|x64.Build.0 = Release|x64
 		{D08BE68C-9CF1-4DFC-87DA-5975002522F4}.Release|x86.ActiveCfg = Release|Win32
 		{D08BE68C-9CF1-4DFC-87DA-5975002522F4}.Release|x86.Build.0 = Release|Win32
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Debug|x64.ActiveCfg = Debug|x64
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Debug|x64.Build.0 = Debug|x64
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Debug|x86.Build.0 = Debug|Win32
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Release|x64.ActiveCfg = Release|x64
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Release|x64.Build.0 = Release|x64
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Release|x86.ActiveCfg = Release|Win32
+		{3D1A41E1-44E9-4C4B-ACA4-BE9E44EB6D30}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

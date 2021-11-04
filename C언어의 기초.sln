@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "컴퓨터가 변수를 처�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "다차원 배열과 포인터 배열", "다차원 배열과 포인터 배열\다차원 배열과 포인터 배열.vcxproj", "{2A3AFE1C-6320-4FCA-AF87-47FDF26C8F17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "동적 메모리 할당", "동적 메모리 할당\동적 메모리 할당.vcxproj", "{03EE3303-3165-4EDC-A022-953A5044AE29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{2A3AFE1C-6320-4FCA-AF87-47FDF26C8F17}.Release|x64.Build.0 = Release|x64
 		{2A3AFE1C-6320-4FCA-AF87-47FDF26C8F17}.Release|x86.ActiveCfg = Release|Win32
 		{2A3AFE1C-6320-4FCA-AF87-47FDF26C8F17}.Release|x86.Build.0 = Release|Win32
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Debug|x64.ActiveCfg = Debug|x64
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Debug|x64.Build.0 = Debug|x64
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Debug|x86.ActiveCfg = Debug|Win32
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Debug|x86.Build.0 = Debug|Win32
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Release|x64.ActiveCfg = Release|x64
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Release|x64.Build.0 = Release|x64
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Release|x86.ActiveCfg = Release|Win32
+		{03EE3303-3165-4EDC-A022-953A5044AE29}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
